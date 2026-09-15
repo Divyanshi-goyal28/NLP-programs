@@ -36,11 +36,11 @@ Libraries used: spaCy and RegEx
 This program performs Named Entity Recognition (NER) using the spaCy library.
 NER is a NLP technique uesd to identify and classify important named entities present in a text. It helps computers understand whether a particular word or group of words represents a person, organization, location, date, or another type of entity.
 Common entity types include:
-PERSON – Name of a person
-ORG – Organization or company
-GPE – Geographical location
-DATE – Date or time
-MONEY – Monetary value
-EVENT – Event
+- PERSON – Name of a person
+- ORG – Organization or company
+- GPE – Geographical location
+- DATE – Date or time
+- MONEY – Monetary value
+- EVENT – Event
 
 
