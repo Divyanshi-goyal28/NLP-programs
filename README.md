@@ -224,8 +224,6 @@ By completing these programs, students will understand NLP preprocessing, featur
 
 **Divyanshi Goyal**
 
----
 
-*This repository is intended for educational purposes and practical learning in Natural Language Processing.*
 
 
